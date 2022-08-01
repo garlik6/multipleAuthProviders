@@ -5,5 +5,5 @@
 ## Features
 -  Whole Spring security auth flow customization(custom filters, providers, Authentication objects)
 - multiple auth providers
-- component based config(in leu of deprecated [WebSecurityConfigurerAdapter](https://spring.io/blog/2022/02/21/spring-security-without-the-websecurityconfigureradapter))
+- component based config(in lieu of deprecated [WebSecurityConfigurerAdapter](https://spring.io/blog/2022/02/21/spring-security-without-the-websecurityconfigureradapter))
 ![ArhitectureImg](https://user-images.githubusercontent.com/56256488/182094904-68c41a2a-75f0-4a8a-a1fc-92a1dbb38eca.svg)
